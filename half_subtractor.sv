@@ -1,6 +1,3 @@
-`timescale 1ns / 1ps
-
-
 module half_subtractor(
     input logic a_i,
     input logic b_i,
