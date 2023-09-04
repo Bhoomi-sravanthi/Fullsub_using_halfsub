@@ -1,25 +1,3 @@
-`timescale 1ns / 1ps
-//////////////////////////////////////////////////////////////////////////////////
-// Company: 
-// Engineer: 
-// 
-// Create Date: 04/24/2023 04:24:01 PM
-// Design Name: 
-// Module Name: full_sub_with_halfsub
-// Project Name: 
-// Target Devices: 
-// Tool Versions: 
-// Description: 
-// 
-// Dependencies: 
-// 
-// Revision:
-// Revision 0.01 - File Created
-// Additional Comments:
-// 
-//////////////////////////////////////////////////////////////////////////////////
-
-
 module full_sub_with_halfsub(a_i,b_i,brw_i,dif_o,brw_o);
 
 input logic a_i,b_i,brw_i; 
